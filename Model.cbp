@@ -34,8 +34,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Notion.h" />
 		<Unit filename="include/Person.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Notion.cpp" />
 		<Unit filename="src/Person.cpp" />
 		<Extensions>
 			<code_completion />
