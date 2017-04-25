@@ -1,11 +1,18 @@
 #include "Person.h"
 
-Person::Person()
+Person::Person(){} //ctor
+Person::~Person(){} //dtor
+
+Person::Person(bool sex) //ctor
 {
-    //ctor
+    this->sex=sex;
+    //...
 }
 
-Person::~Person()
-{
-    //dtor
+bool Person::get_sex(){
+    return this->sex;
+}
+
+void Person::set_sex(bool sex){
+    this->sex=sex;
 }

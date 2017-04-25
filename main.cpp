@@ -1,11 +1,17 @@
 #include <iostream>
 #include <cstdlib>
+#include <Person.h>
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+
+    Person n = new Person();
+    n.set_sex(true);
+    cout<<n.get_sex()<<endl<<endl;
+
+
     system("pause");
-    return 0;
+    return EXIT_SUCCESS;
 }

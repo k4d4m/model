@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493150414 source:c:\users\kadam-\documents\gitrepo\model\main.cpp
+	<iostream>
+	<cstdlib>
+	<Person.h>
+
+1493150528 c:\users\kadam-\documents\gitrepo\model\include\person.h
+
+1493150206 source:c:\users\kadam-\documents\gitrepo\model\src\person.cpp
+	"Person.h"
+
