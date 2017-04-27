@@ -1,0 +1,23 @@
+Person
+	-> Notion
+
+Notion
+	-> Attributes (chance, interpretation, importance) ~ Weird class
+	-> Rarely ordered set (contents) ~ ?
+		-> Universal containers ~ Universal container template
+		-> Notions ~ Notion class
+		-> Relations between elements
+
+Weird Plane
+	-> Weird class
+		-> Value Class [specific floating point in range -max +max]
+		-> Faint Value Class [floating point area around specific value]
+		-> Variable Value Class [unknown value on defined subset of range -max +max]
+		-> Interval Class [definition of weird interval, definition may change:]
+			-> Interval from/to Value
+			-> Interval from/to Faint Value
+			-> Interval from/to Variable Value
+			-> Interval from/to Interval
+		-> Operator overload for addition and multiplication of weirds
+		
+
